@@ -1,0 +1,12 @@
+.cnt {
+  height: 100vh;
+}
+.cnt h1 {
+  margin-bottom: 80px;
+}
+button {
+  margin-top: 50px;
+}
+form label {
+  padding-bottom: 30px;
+}

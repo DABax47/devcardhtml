@@ -1,0 +1,35 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Roboto, sans-serif, helvetica;
+  background-image: url("../img/bg_blob.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+}
+h1 {
+  font-size: 32px;
+}
+h2 {
+  font-size: 24px;
+  font-weight: 300;
+}
+h3,
+p {
+  font-size: 16px;
+}
+button {
+  width: 130px;
+  padding: 10px;
+  border-radius: 17px;
+  font-weight: bold;
+}
+input {
+  border: solid 1px;
+}
